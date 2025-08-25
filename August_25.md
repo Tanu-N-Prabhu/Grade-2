@@ -38,7 +38,7 @@ Circle the describing words (**adjectives**):
 
 ---
 
-# 🔢 Math – Grade 2 Material (Day 2)
+# Math – Grade 2 Material (Day 2)
 
 ## 1. Double and Half  
 - Double of 7 = ?  
