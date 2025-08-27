@@ -63,30 +63,30 @@ Prompt: “Write about your favorite animal. What does it look like? What does i
 
 ## 2. Word Problems
 
-Ben has 40 marbles. He gives 15 to his friend. How many are left?
+1. Ben has 40 marbles. He gives 15 to his friend. How many are left?
 
-A shop sold 32 apples in the morning and 25 apples in the afternoon. How many apples were sold in total?
+2. A shop sold 32 apples in the morning and 25 apples in the afternoon. How many apples were sold in total?
 
-A farmer had 60 cows. 20 were sold. How many cows are left?
+3. A farmer had 60 cows. 20 were sold. How many cows are left?
 
-Mary baked 24 cookies. She ate 6 and gave 8 to her friend. How many cookies remain?
+4. Mary baked 24 cookies. She ate 6 and gave 8 to her friend. How many cookies remain?
 
 ## 3. Money (Introduction)
 
-If 1 chocolate costs 5 rupees:
+1. If 1 chocolate costs 5 rupees:
 
-How much do 2 chocolates cost?
+2. How much do 2 chocolates cost?
 
-How much do 5 chocolates cost?
+3. How much do 5 chocolates cost?
 
-If you have 20 rupees, how many chocolates can you buy?
+4. If you have 20 rupees, how many chocolates can you buy?
 
 ## 4. Multiplication Practice
 
-3 × 2 = ?
+1. 3 × 2 = ?
 
-6 × 5 = ?
+2. 6 × 5 = ?
 
-4 × 4 = ?
+3. 4 × 4 = ?
 
-10 × 3 = ?
+4. 10 × 3 = ?
