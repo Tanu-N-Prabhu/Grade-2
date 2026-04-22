@@ -2,7 +2,7 @@
 # Grade 2 Math – Geometry (Simple Lesson)  
 **Topic:** 3D Shapes  
 **Time:** 1 Hour  
-
+```
 ---
 
 # Learning
